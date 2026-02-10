@@ -1,0 +1,9 @@
+{
+  "image": "mcr.microsoft.com/playwright:v1.41.2-jammy",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "20"
+    },
+    "ghcr.io/devcontainers/features/git-lfs:1": {}
+  }
+}
