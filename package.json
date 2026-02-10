@@ -1,0 +1,23 @@
+{
+  "name": "playwrightframework2",
+  "version": "1.0.0",
+  "description": "This is a practice framework utilizing playwright to test a fictional website DemoQA",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadowsell07/PlaywrightFramework2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shadowsell07/PlaywrightFramework2/issues"
+  },
+  "homepage": "https://github.com/Shadowsell07/PlaywrightFramework2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.3"
+  }
+}
